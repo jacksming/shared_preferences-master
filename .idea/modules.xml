@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="shared_preferences-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared_preferences-master.iml" filepath="$PROJECT_DIR$/.idea/modules/shared_preferences-master.iml" group="shared_preferences-master" />
+    </modules>
+  </component>
+</project>
